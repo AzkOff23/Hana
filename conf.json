@@ -1,6 +1,6 @@
 {
-	"Token": "Enter your bot token here",
-	"DbFile": "Name of file for database",
-	"GuildID": "ID value of the discord server you are running the bot on",
-	"AppID": "AppID value from the discord developer portal for your bot"
+	"Token": "MTI5NjE4ODU3Nzg0MzExODA5Mw.Gb-ww6.0kbyP3Oq8ZH-hpcCFj9uj7JuxxDVACpxUeCx_U",
+	"DbFile": "Hana Vision",
+	"GuildID": "1289385728001966100",
+	"AppID": "1296188577843118093"
 }
